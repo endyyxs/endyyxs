@@ -7,8 +7,7 @@
 <img src="https://github.com/endyyxs/endyyxs/blob/main/Estrelas.gif" alt="Estrelas" width="200px">
 </div>
 
-## Languages
-<div align="left"><br>
+<div align="center"><br>
 <img align="center" alt="Brenda-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="center" alt="Brenda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
