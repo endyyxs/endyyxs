@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/endyyxs/endyyxs/blob/main/Estrelas.gif" alt="Estrelas" width="150px">
+<img src="https://github.com/endyyxs/endyyxs/blob/main/Estrelas.gif" alt="Estrelas" width="200px">
 </div>
 
 ## Languages
