@@ -3,7 +3,8 @@
 <img src="https://github.com/endyyxs/endyyxs/blob/main/Brenda%20Leal.png" alt="Banner Brenda">
 </div>
 
-<p align="center"><br>
+## Languages
+<p align="left"><br>
 <img align="center" alt="Brenda-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="center" alt="Brenda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </p>
