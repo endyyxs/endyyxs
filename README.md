@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/endyyxs/endyyxs/blob/main/Rainbow%20Star%20Sticker%20by%20Pret%20USA%20for%20iOS%20%26%20Android%20_%20GIPHY.gif" alt="Estrelas" width="150px">
+<img src="https://github.com/endyyxs/endyyxs/blob/main/Estrelas.gif" alt="Estrelas" width="150px">
 </div>
 
 ## Languages
